@@ -490,6 +490,11 @@ engines:
 # Default is not to hide obsolete structures
 #    hide_obsolete : False
 
+  - name: pexels
+    engine: pexels
+    shortcut: px
+    disabled: True
+
   - name : photon
     engine : photon
     shortcut : ph
